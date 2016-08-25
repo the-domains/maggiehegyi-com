@@ -1,0 +1,14 @@
+layout_spectrum: 0.5708263
+typography_spectrum: 0.3735245
+color:
+  saturation: 0.653457
+  lightness: 0.6804385
+  brandStrength: 0.8559324
+  brandColors:
+    - '#ECF0F3'
+    - '#F64E82'
+    - '#C8957A'
+    - '#3D2014'
+    - '#9E6D49'
+  rhythmicContrast: 0.7487352
+name: maggiehegyi.com
